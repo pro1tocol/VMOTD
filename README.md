@@ -8,3 +8,7 @@ cd VMOTD && pwd
 - ### Create Soft Link
 | | | |
 | :--- | :--- | :--- |
+
+- ### Copy The Files
+| | | |
+| :--- | :--- | :--- |
