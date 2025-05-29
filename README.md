@@ -1,10 +1,10 @@
-##### This's repository referenced from [Generator/termux-motd](https://github.com/Generator/termux-motd/tree/master)
+# HOW TO USED
+``` bash
+git clone -b termux --single-branch https://github.com/pro1tocol/VMOTD.git
+cd VMOTD && pwd
+# you need to record the path for work
+```
 
----
-
-# <p align="center"> VMOTD </p>
-### <p align="center"> Personalized message of the day in Linux </p>
-
-- #### Branch
-| | | | |
-| :--- | :--- | :--- | :--- |
+- ### Create Soft Link
+| | | |
+| :--- | :--- | :--- |
