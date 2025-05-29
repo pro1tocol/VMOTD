@@ -6,5 +6,6 @@
 ### <p align="center"> Personalized message of the day in Linux </p>
 
 - #### Branch
-| | | | |
+| NAME | TYPE | KERNEL | LINK |
 | :--- | :--- | :--- | :--- |
+| Termux | Android | Linux 4.4.78* | [link](https://github.com/pro1tocol/VMOTD/tree/termux) |
