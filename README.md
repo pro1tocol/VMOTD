@@ -1,4 +1,4 @@
-# HOW TO USED
+# HOW TO WORK
 ``` bash
 git clone -b termux --single-branch https://github.com/pro1tocol/VMOTD.git
 cd VMOTD && pwd
@@ -14,7 +14,7 @@ ln -sf /source_path /destination_path
 | ranger | VMOTD/config/ranger | $HOME/.config/ranger |
 | plugins | VMOTD/plugins | $HOME/.plugins |
 | sbin | VMOTD/sbin | $HOME/sbin |
-| termux.properties | VMOTD/termux/termux.properties | $HOME/.termux/termux.properties |
+| termux | VMOTD/termux/termux.properties | $HOME/.termux/termux.properties |
 | vim | VMOTD/vim | $HOME/.vim |
 | nanorc | VMOTD/nanorc | $HOME/.nanorc |
 | profile | VMOTD/profile | $PREFIX/efi/profile |
